@@ -1,32 +1,42 @@
-{
-  "ยูฟ่า แชมเปี้ยนส์ ลีก": [
-    {
-      "time": "00:45",
-      "home_team": "กาลาตาซาราย",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/17029.png",
-      "away_team": "ยูเวนตุส",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/11922.png"
-    },
-    {
-      "time": "03:00",
-      "home_team": "โมนาโก",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10020.png",
-      "away_team": "เปแอสเช",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10061.png"
-    },
-    {
-      "time": "03:00",
-      "home_team": "โบรุสเซีย ดอร์ทมุนด์",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10303.png",
-      "away_team": "อตาลันต้า",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/11811.png"
-    },
-    {
-      "time": "03:00",
-      "home_team": "เบนฟิก้า",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/14267.png",
-      "away_team": "เรอัล มาดริด",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/16110.png"
-    }
-  ]
-}
+[
+  {
+    "league": "ยูฟ่า แชมเปี้ยนส์ ลีก",
+    "time": "00:45",
+    "home": "กาลาตาซาราย",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/17029.png",
+    "away": "ยูเวนตุส",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11922.png",
+    "status": "upcoming",
+    "link": "#"
+  },
+  {
+    "league": "ยูฟ่า แชมเปี้ยนส์ ลีก",
+    "time": "03:00",
+    "home": "โมนาโก",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10020.png",
+    "away": "เปแอสเช",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10061.png",
+    "status": "upcoming",
+    "link": "#"
+  },
+  {
+    "league": "ยูฟ่า แชมเปี้ยนส์ ลีก",
+    "time": "03:00",
+    "home": "โบรุสเซีย ดอร์ทมุนด์",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10303.png",
+    "away": "อตาลันต้า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11811.png",
+    "status": "upcoming",
+    "link": "#"
+  },
+  {
+    "league": "ยูฟ่า แชมเปี้ยนส์ ลีก",
+    "time": "03:00",
+    "home": "เบนฟิก้า",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/14267.png",
+    "away": "เรอัล มาดริด",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/16110.png",
+    "status": "upcoming",
+    "link": "#"
+  }
+]
