@@ -1,0 +1,38 @@
+{
+  "บุนเดสลีกา": [
+    {
+      "time": "02:30",
+      "home_team": "ไมนซ์",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/10388.png",
+      "away_team": "ฮัมบูร์ก",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/10419.png"
+    }
+  ],
+  "กัลโช่ เซเรีย อา": [
+    {
+      "time": "02:45",
+      "home_team": "ซาสซูโอโล่",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/12013.png",
+      "away_team": "เวโรน่า",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/11914.png"
+    }
+  ],
+  "ลาลีกา สเปน": [
+    {
+      "time": "03:00",
+      "home_team": "แอธเลติก บิลเบา",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/15679.png",
+      "away_team": "เอลเช่",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/16007.png"
+    }
+  ],
+  "แชมเปี้ยนชิพ อังกฤษ": [
+    {
+      "time": "03:00",
+      "home_team": "แบล็คเบิร์น โรเวอร์ส",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/9044.png",
+      "away_team": "เปรสตัน นอร์ธเอนด์",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/9317.png"
+    }
+  ]
+}

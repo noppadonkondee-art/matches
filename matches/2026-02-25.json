@@ -1,0 +1,62 @@
+{
+  "ยูฟ่า แชมเปี้ยนส์ ลีก": [
+    {
+      "time": "00:45",
+      "home_team": "อตาลันต้า",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/11811.png",
+      "away_team": "โบรุสเซีย ดอร์ทมุนด์",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/10303.png"
+    },
+    {
+      "time": "03:00",
+      "home_team": "เปแอสเช",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/10061.png",
+      "away_team": "โมนาโก",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/10020.png"
+    },
+    {
+      "time": "03:00",
+      "home_team": "ยูเวนตุส",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/11922.png",
+      "away_team": "กาลาตาซาราย",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/17029.png"
+    },
+    {
+      "time": "03:00",
+      "home_team": "เรอัล มาดริด",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/16110.png",
+      "away_team": "เบนฟิก้า",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/14267.png"
+    }
+  ],
+  "แชมเปี้ยนชิพ อังกฤษ": [
+    {
+      "time": "02:45",
+      "home_team": "เชฟฯ ยูไนเต็ด",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/9348.png",
+      "away_team": "โคเวนทรี ซิตี้",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/9116.png"
+    },
+    {
+      "time": "02:45",
+      "home_team": "นอริช ซิตี้",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/9296.png",
+      "away_team": "เชฟฟิลด์ เว้นส์เดย์",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/9349.png"
+    },
+    {
+      "time": "02:45",
+      "home_team": "มิลล์วอลล์",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/9276.png",
+      "away_team": "เบอร์มิงแฮม ซิตี้",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/9039.png"
+    },
+    {
+      "time": "03:00",
+      "home_team": "สโต๊ค ซิตี้",
+      "home_logo": "https://www.siamsport.co.th/static/team-logo/9378.png",
+      "away_team": "อ็อกซ์ฟอร์ด ยูไนเต็ด",
+      "away_logo": "https://www.siamsport.co.th/static/team-logo/9306.png"
+    }
+  ]
+}
