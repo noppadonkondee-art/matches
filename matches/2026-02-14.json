@@ -1,187 +1,26 @@
-{
-  "เอฟเอ คัพ อังกฤษ": [
-    {
-      "time": "19:15",
-      "home_team": "เบอร์ตัน",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9074.png",
-      "away_team": "เวสต์แฮม",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9427.png"
-    },
-    {
-      "time": "22:00",
-      "home_team": "เบิร์นลีย์",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9072.png",
-      "away_team": "แมนส์ฟิลด์",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9262.png"
-    },
-    {
-      "time": "22:00",
-      "home_team": "นอริช ซิตี้",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9296.png",
-      "away_team": "เวสต์บรอมวิช อัลเบี้ยน",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9426.png"
-    },
-    {
-      "time": "22:00",
-      "home_team": "พอร์ท เวล",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9313.png",
-      "away_team": "บริสตอล ซิตี้",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9066.png"
-    },
-    {
-      "time": "22:00",
-      "home_team": "เซาธ์แฮมป์ตัน",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9363.png",
-      "away_team": "เลสเตอร์ ซิตี้",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9240.png"
-    },
-    {
-      "time": "22:00",
-      "home_team": "แมนซิตี้",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9259.png",
-      "away_team": "ซัลฟอร์ด ซิตี้",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9342.png"
-    },
-    {
-      "time": "00:45",
-      "home_team": "แอสตัน วิลล่า",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9008.png",
-      "away_team": "นิวคาสเซิ่ล",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9287.png"
-    },
-    {
-      "time": "03:00",
-      "home_team": "ลิเวอร์พูล",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9249.png",
-      "away_team": "ไบรท์ตัน",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9065.png"
-    }
-  ],
-  "บุนเดสลีกา": [
-    {
-      "time": "21:30",
-      "home_team": "ฮัมบูร์ก",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10419.png",
-      "away_team": "อูนิโอน เบอร์ลิน",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10631.png"
-    },
-    {
-      "time": "21:30",
-      "home_team": "ไอน์ทรัค แฟร้งค์เฟิร์ต",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10347.png",
-      "away_team": "โบรุสเซีย มึนเช่นกลัดบัค",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10307.png"
-    },
-    {
-      "time": "21:30",
-      "home_team": "แวร์เดอร์ เบรเมน",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10677.png",
-      "away_team": "บาเยิร์น มิวนิค",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10285.png"
-    },
-    {
-      "time": "21:30",
-      "home_team": "แวร์เดอร์ เบรเมน",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10677.png",
-      "away_team": "บาเยิร์น มิวนิค",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10285.png"
-    },
-    {
-      "time": "21:30",
-      "home_team": "ฮอฟเฟ่นไฮม์",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10442.png",
-      "away_team": "ไฟร์บวร์ก",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10382.png"
-    },
-    {
-      "time": "21:30",
-      "home_team": "ไบเออร์ เลเวอร์คูเซ่น",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10281.png",
-      "away_team": "ซังต์.เพาลี",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10603.png"
-    },
-    {
-      "time": "00:30",
-      "home_team": "สตุ๊ตการ์ท",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10646.png",
-      "away_team": "โคโลญจน์",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10476.png"
-    }
-  ],
-  "กัลโช่ เซเรีย อา": [
-    {
-      "time": "21:00",
-      "home_team": "โคโม่",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/11856.png",
-      "away_team": "ฟิออเรนติน่า",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/11894.png"
-    },
-    {
-      "time": "00:00",
-      "home_team": "ลาซิโอ",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/11925.png",
-      "away_team": "อตาลันต้า",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/11811.png"
-    },
-    {
-      "time": "02:45",
-      "home_team": "อินเตอร์ มิลาน",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/11917.png",
-      "away_team": "ยูเวนตุส",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/11922.png"
-    }
-  ],
-  "ลาลีกา สเปน": [
-    {
-      "time": "20:00",
-      "home_team": "เอสปันญ่อล",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/16009.png",
-      "away_team": "เซลต้า บีโก้",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/15934.png"
-    },
-    {
-      "time": "22:15",
-      "home_team": "เกตาเฟ่",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/16017.png",
-      "away_team": "บียาร์เรอัล",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/16270.png"
-    },
-    {
-      "time": "00:30",
-      "home_team": "เซบีย่า",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/16175.png",
-      "away_team": "อลาเบส",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/15997.png"
-    },
-    {
-      "time": "03:00",
-      "home_team": "เรอัล มาดริด",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/16110.png",
-      "away_team": "เรอัล โซเซียดาด",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/16117.png"
-    }
-  ],
-  "ลีกเอิง ฝรั่งเศส": [
-    {
-      "time": "23:00",
-      "home_team": "โอลิมปิก มาร์กเซย",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10042.png",
-      "away_team": "สตราส์บูร์ก",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/10124.png"
-    },
-    {
-      "time": "01:00",
-      "home_team": "ลีลล์",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10004.png",
-      "away_team": "แบรสต์",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9880.png"
-    },
-    {
-      "time": "03:05",
-      "home_team": "ปารีส์ แอฟเซ",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/10050.png",
-      "away_team": "ล็องส์",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9998.png"
-    }
-  ]
-}
+[
+  {
+    "league": "เอฟเอ คัพ อังกฤษ",
+    "time": "19:15",
+    "home_team": "เบอร์ตัน",
+    "home_logo": "https://www.siamsport.co.th/static/team-logo/9074.png",
+    "away_team": "เวสต์แฮม",
+    "away_logo": "https://www.siamsport.co.th/static/team-logo/9427.png"
+  },
+  {
+    "league": "เอฟเอ คัพ อังกฤษ",
+    "time": "22:00",
+    "home_team": "เบิร์นลีย์",
+    "home_logo": "https://www.siamsport.co.th/static/team-logo/9072.png",
+    "away_team": "แมนส์ฟิลด์",
+    "away_logo": "https://www.siamsport.co.th/static/team-logo/9262.png"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "21:30",
+    "home_team": "ฮัมบูร์ก",
+    "home_logo": "https://www.siamsport.co.th/static/team-logo/10419.png",
+    "away_team": "อูนิโอน เบอร์ลิน",
+    "away_logo": "https://www.siamsport.co.th/static/team-logo/10631.png"
+  }
+]
