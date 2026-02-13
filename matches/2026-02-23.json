@@ -1,20 +1,22 @@
-{
-  "พรีเมียร์ลีก อังกฤษ": [
-    {
-      "time": "03:00",
-      "home_team": "เอฟเวอร์ตัน",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/9158.png",
-      "away_team": "แมนยูไนเต็ด",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/9260.png"
-    }
-  ],
-  "ลาลีกา สเปน": [
-    {
-      "time": "03:00",
-      "home_team": "อลาเบส",
-      "home_logo": "https://www.siamsport.co.th/static/team-logo/15997.png",
-      "away_team": "จีโรน่า",
-      "away_logo": "https://www.siamsport.co.th/static/team-logo/16021.png"
-    }
-  ]
-}
+[
+  {
+    "league": "พรีเมียร์ลีก อังกฤษ",
+    "time": "03:00",
+    "home": "เอฟเวอร์ตัน",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/9158.png",
+    "away": "แมนยูไนเต็ด",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/9260.png",
+    "status": "upcoming",
+    "link": "#"
+  },
+  {
+    "league": "ลาลีกา สเปน",
+    "time": "03:00",
+    "home": "อลาเบส",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/15997.png",
+    "away": "จีโรน่า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/16021.png",
+    "status": "upcoming",
+    "link": "#"
+  }
+]
