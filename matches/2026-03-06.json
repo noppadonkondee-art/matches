@@ -12,13 +12,13 @@
   {
     "league": "ลาลีกา สเปน",
     "time": "03:00",
-    "home": "โอซาซูน่า",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/16079.png",
-    "away": "มายอร์ก้า",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/16052.png",
+    "home": "เซลต้า บีโก้",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/15934.png",
+    "away": "เรอัล มาดริด",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/16110.png",
     "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3693262"
-  },
+    "link": "https://www.siamsport.co.th/matches/3693258"
+  }
   {
     "league": "บุนเดสลีกา",
     "time": "02:30",
@@ -49,4 +49,5 @@
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3691581"
   }
+
 ]
