@@ -58,17 +58,7 @@
     "aLogo": "https://www.siamsport.co.th/static/team-logo/16117.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3693257"
-  },
-  {
-    "league": "ลาลีกา สเปน",
-    "time": "03:00",
-    "home": "เซลต้า บีโก้",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/15934.png",
-    "away": "เรอัล มาดริด",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/16110.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3693258"
-  },
+  },
   {
     "league": "บุนเดสลีกา",
     "time": "21:30",
