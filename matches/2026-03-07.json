@@ -31,13 +31,13 @@
   },
   {
     "league": "ลาลีกา สเปน",
-    "time": "20:00",
-    "home": "เกตาเฟ่",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/16017.png",
-    "away": "เรอัล เบติส",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/16107.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3693260"
+    "time": "จบการแข่งขัน",
+    "home": "โอซาซูน่า",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/16079.png",
+    "away": "มายอร์ก้า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/16052.png",
+    "status": "0-2",
+    "link": "https://www.siamsport.co.th/matches/3693262"
   },
   {
     "league": "ลาลีกา สเปน",
@@ -58,10 +58,19 @@
     "aLogo": "https://www.siamsport.co.th/static/team-logo/16117.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3693257"
-  },
+  },
   {
-    "league": "บุนเดสลีกา",
-    "time": "21:30",
+    "league": "ลาลีกา สเปน",
+    "time": "03:00",
+    "home": "แอธเลติก บิลเบา",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/15679.png",
+    "away": "บาร์เซโลน่า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/15702.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3693256"
+  },
+ {  "league": "บุนเดสลีกา",
+     time": "21:30",
     "home": "ไมนซ์",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/10388.png",
     "away": "สตุ๊ตการ์ท",
@@ -108,17 +117,7 @@
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10442.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3690742"
-  },
-  {
-    "league": "บุนเดสลีกา",
-    "time": "21:30",
-    "home": "โวล์ฟสบวร์ก",
-    "hLogo": "https://www.siamsport.co.th/static/team-logo/10653.png",
-    "away": "ฮัมบูร์ก",
-    "aLogo": "https://www.siamsport.co.th/static/team-logo/10419.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3692373"
-  },
+  },
   {
     "league": "บุนเดสลีกา",
     "time": "00:30",
