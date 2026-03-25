@@ -1,16 +1,6 @@
 [
   {
     "league": "กระชับมิตรทีมชาติ",
-    "time": "14:00",
-    "home": "เวียดนาม ยู-23",
-    "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Vietnam.png",
-    "away": "เกาหลีเหนือ ยู-23",
-    "aLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/North-Korea.png",
-    "status": "upcoming",
-    "link": "https://www.siamsport.co.th/matches/3842583"
-  },
-  {
-    "league": "กระชับมิตรทีมชาติ",
     "time": "17:00",
     "home": "คาซัคสถาน",
     "hLogo": "https://files.softicons.com/download/web-icons/flags-flat-icons-by-gosquared/png/64x64/Kazakhstan.png",
