@@ -28,5 +28,15 @@
     "aLogo": "https://www.siamsport.co.th/static/team-logo/16270.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3692440"
+  },
+  {
+    "league": "เดเอฟเบ โพคาล เยอรมัน",
+    "time": "01:45",
+    "home": "สตุ๊ตการ์ท",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10646.png",
+    "away": "ไฟร์บวร์ก",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10382.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3837018"
   }
 ]
