@@ -54,9 +54,19 @@
     "time": "00:00",
     "home": "เปแอสเช",
     "hLogo": "https://www.siamsport.co.th/static/team-logo/10061.png",
-    "away": "น็อตต์",
+    "away": "น็องต์",
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10031.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3687216"
+  },
+  {
+    "league": "โคปปา อิตาเลีย",
+    "time": "02:00",
+    "home": "อตาลันต้า",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11811.png",
+    "away": "ลาซิโอ",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11925.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3832981"
   }
 ]
