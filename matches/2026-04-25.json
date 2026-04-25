@@ -128,5 +128,95 @@
     "aLogo": "https://www.siamsport.co.th/static/team-logo/10020.png",
     "status": "upcoming",
     "link": "https://www.siamsport.co.th/matches/3690857"
+  },
+  {
+    "league": "กัลโช่ซีเรียอา",
+    "time": "20:00",
+    "home": "พาร์ส",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11959.png",
+    "away": "ปิซ่า",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11968.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3681952"
+  },
+  {
+    "league": "กัลโช่ซีเรียอา",
+    "time": "23:00",
+    "home": "บ สโลญญ่า",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11822.png",
+    "away": "โรเซล",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11998.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3682076"
+  },
+  {
+    "league": "กัลโช่ซีเรียอา",
+    "time": "01:45",
+    "home": "เวโรน่า",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/11914.png",
+    "away": "เลชเช่",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/11926.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3681953"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "20:30",
+    "home": "โวล์ฟสบวร์ก",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10653.png",
+    "away": "บรุสเซียมึนเช่นกลัดบอร์ด",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10307.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3690795"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "20:30",
+    "home": "ไฮ เรนไฮเร",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10433.png",
+    "away": "สันต์.เพาลี",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10603.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3690796"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "20:30",
+    "home": "เอียร์ก์สวร์ก",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10269.png",
+    "away": "ไอน์ทรัคแฟร้งค์เฟิร์ต",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10347.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3690797"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "20:30",
+    "home": "โคสโลญจ",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10476.png",
+    "away": "ไบไบเลอร์เลอร์คูเซ่น",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10281.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3690801"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "20:30",
+    "home": "อืม...",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10388.png",
+    "away": "บายเยิร์น มิวนิค",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10285.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3690802"
+  },
+  {
+    "league": "บุนเดสลีกา",
+    "time": "23:30",
+    "home": "จริง",
+    "hLogo": "https://www.siamsport.co.th/static/team-logo/10419.png",
+    "away": "ฮอฟเฟ่นไฮม์",
+    "aLogo": "https://www.siamsport.co.th/static/team-logo/10442.png",
+    "status": "upcoming",
+    "link": "https://www.siamsport.co.th/matches/3690798"
   }
 ]
